@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+body h1 {
+    color: wheat;
+    font-size: 3rem;
+}
